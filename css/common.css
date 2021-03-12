@@ -1,1 +1,23 @@
-b
+
+@font-face{font-family:Myriad_set_pro_Thin;src:local(Myriad_set_pro_Thin),url(../fonts/myriad-set-pro_text.woff)}
+html,body{margin:0;font-size:15px;margin:0;padding:0;}
+*{
+  box-sizing:border-box;
+  font-family: -apple-system ,BlinkMacSystemFont ,'Segoe UI', "Myriad_set_pro_Thin","SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.footer{text-align:center;padding:25px 0 24px;border-top: 1px solid #DDDFE1;background-color:#FFF;line-height:34px;}
+.footer-digital-wind{text-align: center;width:143px;margin:17px auto;}
+
+
+a{text-decoration:none;color: blue}
+
+
+
+
+.head{height:44px;line-height:44px;}
+
+.head-left{float:left;}
+.head-right{float:right;}
+
+.head-center{margin:auto;width: 143px}
